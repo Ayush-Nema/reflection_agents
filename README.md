@@ -1,7 +1,9 @@
 Reflection agents
 ==================
 
-Understanding how to perform Self-reflection in prompting.
+Understanding how to perform Self-reflection in prompting.  
+
+![imgs/img.png](imgs/reflection_agent.png)
 
 --- 
 
@@ -57,3 +59,5 @@ Point 1-4: General scope of `LangChain`
 Point 5: `LangGraph` supremacy  
 Point 6: Full autonomous agent
 
+#### Quick read
+- Reflection agent: [LangChain blogpost](https://blog.langchain.dev/reflection-agents/)
